@@ -43,3 +43,10 @@ CountdownToNewYear/
 ````
 
 ---
+
+## ✨ Screenshots
+<img width="1847" height="778" alt="image" src="https://github.com/user-attachments/assets/f1acbe7f-a2a8-47cb-9c06-b11397058f7d" />
+<img width="1836" height="977" alt="image" src="https://github.com/user-attachments/assets/6a39cb61-8af1-4b11-97f1-6491a3f4732b" />
+
+
+

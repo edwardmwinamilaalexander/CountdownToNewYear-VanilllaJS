@@ -28,9 +28,11 @@ It counts down the time remaining until the New Year in real-time.
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+
+
 
 ## 📂 Project Structure
+```
 
 CountdownToNewYear/
 │
@@ -38,5 +40,6 @@ CountdownToNewYear/
 ├── style.css
 ├── script.js
 └── README.md
+````
 
 ---
